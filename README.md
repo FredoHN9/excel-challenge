@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment is part of the UWA Data Analytics Boot Camp, completed under the guidance of Mohammad Mursalin and Camilo Vargas. The analysis focuses on examining the success rates of various crowdfunding campaigns across different industries, utilizing a dataset of 100 sample projects. The primary goal is to uncover trends and patterns that could inform strategies for future crowdfunding initiatives.
+The analysis focuses on examining the success rates of various crowdfunding campaigns across different industries, utilizing a dataset of 100 sample projects. The primary goal is to uncover trends and patterns that could inform strategies for future crowdfunding initiatives.
 
 ## Files
 
